@@ -5,4 +5,4 @@ If you want to deploy this app then you should change url path accordingly in st
 Packages you will require to install are there in requirement.txt file.
 
 Dataset used from Kaggle
-Data is preprocessed and model is trained on jupyter note book.
+Data is preprocessed and model is trained on jupyter notebook.
