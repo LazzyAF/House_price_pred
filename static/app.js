@@ -26,7 +26,7 @@ function onClickedEstimatePrice() {
   var location = document.getElementById("uiLocations");
   var estPrice = document.getElementById("uiEstimatedPrice");
 
-    var url = "https://blgrhousepredict.herokuapp.com//predict_home_price"; 
+  var url = "https://blgrhousepredict.herokuapp.com//predict_home_price"; 
 
   $.post(url, {
       total_sqft: parseFloat(sqft.value),
